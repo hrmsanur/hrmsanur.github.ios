@@ -1,0 +1,189 @@
+#Awal {
+  background-color: rgb(241, 241, 241);
+}
+
+#Home {
+  background-color: rgb(238, 238, 238);
+  margin-right: 0px;
+  max-width: 100%;
+}
+body {
+  background-color: rgb(241, 241, 241);
+}
+
+
+
+#kedua {
+  padding-bottom: 50px;
+  margin-top: -90px;
+  background-color: rgb(25, 25, 44);
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+/* .inputNama {
+    margin-left: 50px;
+    margin-right: 50px;
+} */
+
+.imgMasjid {
+  margin-left: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.welcome {
+  padding-top: 200px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.textInputNama {
+  margin-top: 300px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  color: rgb(19, 19, 19);
+}
+
+.webPageText {
+  color: rgb(19, 19, 19);
+  margin-top: 256px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.welcomeP {
+  font-family: 'Kanit', sans-serif;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.nasihat {
+  font-family: 'Kanit', sans-serif;
+  padding-bottom: 180px;
+}
+
+p span {
+  font-weight: bolder;
+}
+
+.kegiatan{
+  color: rgb(236, 236, 236);
+  padding-top: 100px;
+  padding-bottom: 30px;
+  font-weight: bolder;
+}
+
+.perbarui {
+    font-family: 'Kanit', sans-serif;
+    padding-bottom: 180px;
+    margin-left: 50px; margin-right: 40px; color: yellow; margin-top: 30px; margin-bottom: 0;
+}
+
+
+
+
+
+
+
+@media (min-width: 1200px) {
+
+  .navbar-nav {
+    margin-left: 400px;
+    margin-top: 10px;
+  }
+
+  .nav-link {
+    margin-left: 50px;
+  }
+
+.textInputNama {
+  margin-top: 100px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+.welcome {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+.welcomeP {
+  font-family: 'Kanit', sans-serif;
+}
+
+.imgMasjid {
+  margin-left: 400px;
+  width: 500px;
+  height: 500px;
+}
+
+.nasihat {
+  font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+  padding-left: 310px;
+  padding-right: 310px;
+}
+
+
+.maulidNabi {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+
+.baktiSosial {
+  margin-left: 200px;
+  margin-right: 100px;
+}
+
+.text1 {
+  color: rgb(29, 29, 29);
+  font-weight: bolder;
+}
+
+
+.rowSaya {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+.rowSaya2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.name {
+  margin-top: 50px;
+  font-size: 20px;
+  /* margin-bottom: 20px; */
+  font-family: 'Kanit', sans-serif;
+}
+
+.p1 {
+  margin-top: 20px;
+  color: rgb(29, 29, 29);
+  margin-left: 390px;
+  margin-right: 390px;
+}
+
+.item1 {
+  margin-top: -100px;
+  margin-left: 50px;
+}
+
+.perbarui {
+  font-family: 'Kanit', sans-serif;
+  padding-bottom: 180px;
+  margin-left: 50px; margin-right: 40px; color: yellow; margin-top: 30px; margin-bottom: 0;
+}
+
+}
